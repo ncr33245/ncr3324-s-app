@@ -36,7 +36,7 @@ This document tracks reported issues and bugs related to the `ncr3324's app` Pyt
 - **Contributors:** Please feel free to contribute by suggesting new features or improvements.
 
 ## How to Contribute
-1. **Reporting Issues:** If you encounter any issues not listed here, please [open a new issue](<link to your issue tracker>) with detailed information about the problem and steps to reproduce it.
+1. **Reporting Issues:** If you encounter any issues not listed here, please [open a chat box](<https://tawk.to/chat/6583483270c9f2407f81f662/1hi4d41ou>) with detailed information about the problem and steps to reproduce it.
 2. **Providing Solutions:** If you have solutions or enhancements for reported issues, feel free to submit pull requests.
 3. **Feature Requests:** If you have ideas for new features or improvements, submit them as enhancement requests.
 
