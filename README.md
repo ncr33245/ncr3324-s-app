@@ -21,7 +21,7 @@ This Python script represents ncr3324's app, a console-based application that al
   - Allows the user to exit the application.
 
 ## Setup
-1. Ensure Python is installed on your system.
+1. Ensure Python is installed on your system. (if not go to https://www.python.org/downloads/).
 2. Copy the script code into a Python file (e.g., `ncr3324_app.py`).
 3. Run the script using a command-line interface.
 4. Or run it though python is what i did.
