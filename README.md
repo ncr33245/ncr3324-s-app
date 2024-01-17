@@ -20,5 +20,6 @@
 ```or at:```https://github.com/ncr33245/ncr3324-s-app/blob/main/ncr3324'sapp.py.py
 
 
+picture:
 
-picture:(https://github.com/ncr33245/ncr3324-s-app/assets/156570405/ad785713-da68-4536-90db-46aa82564648)
+(https://github.com/ncr33245/ncr3324-s-app/assets/156570405/ad785713-da68-4536-90db-46aa82564648)
