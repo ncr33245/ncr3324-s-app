@@ -34,3 +34,5 @@ This Python script represents ncr3324's app, a console-based application that al
 - The script uses ANSI escape codes for colored text, and it may not work correctly in all environments.
 - The Calculator feature (Option 2) evaluates basic mathematical expressions.
 - More features are planned for future updates.
+
+```download: ```
