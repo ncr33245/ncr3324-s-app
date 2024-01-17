@@ -24,6 +24,7 @@ This Python script represents ncr3324's app, a console-based application that al
 1. Ensure Python is installed on your system.
 2. Copy the script code into a Python file (e.g., `ncr3324_app.py`).
 3. Run the script using a command-line interface.
+4. Or run it though python is what i did.
 
 ## Usage
 1. Run the script.
