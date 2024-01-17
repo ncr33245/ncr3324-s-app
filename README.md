@@ -22,4 +22,5 @@
 
 picture:
 
-(https://github.com/ncr33245/ncr3324-s-app/assets/156570405/ad785713-da68-4536-90db-46aa82564648)
+![Screenshot 2024-01-17 135605](https://github.com/ncr33245/ncr3324-s-app/assets/156570405/cd31f239-c1b3-43f6-bab0-9ca820bbbb9a)
+
